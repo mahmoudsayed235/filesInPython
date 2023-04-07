@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c54f335-5058-40d6-bb93-347154bdec86" name="Changes" comment="files and csvFiles reading and writing">
-      <change afterPath="$PROJECT_DIR$/friendJson.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonImport.py" afterDir="false" />
+    <list default="true" id="1c54f335-5058-40d6-bb93-347154bdec86" name="Changes" comment="json file">
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/fileOperations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,12 @@
     "last_opened_file_path": "/home/madah/Desktop/workspace/filesInPython"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.jsonImport">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="csvRead" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="filesInPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680905861859</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="json file">
+      <created>1680906988392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680906988392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +196,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Revert &quot;initlize project&quot;&#10;&#10;This reverts commit d9361bae" />
     <MESSAGE value="files and csvFiles reading and writing" />
-    <option name="LAST_COMMIT_MESSAGE" value="files and csvFiles reading and writing" />
+    <MESSAGE value="json file" />
+    <option name="LAST_COMMIT_MESSAGE" value="json file" />
   </component>
 </project>
